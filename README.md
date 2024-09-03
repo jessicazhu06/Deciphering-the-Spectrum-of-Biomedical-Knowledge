@@ -6,7 +6,7 @@ Student ID: 11338635
 
 ## Project Overview
 
-This project develops a comprehensive pipeline for analyzing drug-target interactions through text mining of PubMed data. It integrates advanced text mining techniques with network analysis to identify novel drug targets and investigate polypharmacological interactions.
+This project develops a comprehensive pipeline for analysing drug-target interactions through text mining of PubMed data. It integrates advanced text mining techniques with network analysis to identify novel drug targets and investigate polypharmacological interactions.
 
 ## Repository Structure
 
