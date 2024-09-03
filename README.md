@@ -14,7 +14,7 @@ This project develops a comprehensive pipeline for analysing drug-target interac
   - `1_data_collection.ipynb`: Notebook for collecting PubMed data
   - `2_data_preparation.ipynb`: Notebook for data preparation
   - `3_fine_tune_bio_bert.ipynb`: Notebook for fine-tuning BioBERT model
-  - `4_data_preprocessing_cleaning_NER_and_RE.ipynb`: Notebook for data preprocessing, cleaning, NER, and RE
+  - `4_data_preprocessing_cleaning_NER_and_RE.ipynb`: Notebook for data preprocessing, cleaning, Named Entity Recognition (NER), and Relationship Extraction (RE)
   - `5_exploratory_data_analysis.ipynb`: Notebook for exploratory data analysis
   - `6_novel_targets_identification_and_polypharmacology_analysis_(network_construction).ipynb`: Notebook for network analysis
   - `7_validation.ipynb`: Notebook for validation
