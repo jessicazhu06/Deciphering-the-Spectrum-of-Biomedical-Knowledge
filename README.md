@@ -29,7 +29,6 @@ This project develops a comprehensive pipeline for analyzing drug-target interac
 - DrugProt Training Dataset: https://zenodo.org/records/5042151#.YNwojm7tbzA
 
 The DrugProt training dataset is included in the `DrugProt_dataset/` folder.
-The validation dataset can be found in the `validation_dataset/` folder.
 
 ## Getting Started
 
